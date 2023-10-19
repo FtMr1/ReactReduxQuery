@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "name": "Fatih Meral",
+      "id": 3
+    },
+    {
+      "name": "Leo Mitchell",
+      "id": 4
+    },
+    {
+      "name": "Loren Lehner",
+      "id": 6
+    }
+  ],
+  "albums": [
+    {
+      "userId": 3,
+      "title": "Rastgele",
+      "id": 15
+    },
+    {
+      "userId": 3,
+      "title": "Refined Granite Bacon",
+      "id": 18
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/640/480?lock=4958220053381120",
+      "id": 3
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/640/480?lock=1685269304573952",
+      "id": 4
+    },
+    {
+      "albumId": 15,
+      "url": "https://picsum.photos/seed/0u9derM/640/480",
+      "id": 5
+    },
+    {
+      "albumId": 18,
+      "url": "https://picsum.photos/seed/7sgAE/640/480",
+      "id": 6
+    }
+  ]
+}
